@@ -1,0 +1,21 @@
+Basic Questions Web Development
+
+1.What is HTML?
+Ans. HTML is known as Hyper Text Markup Language which is used to create a basic structure of the website without styling
+     and functionality.
+
+2.What is CSS?
+Ans. CSS is known as Cascade Style Sheet which is used to styling the website to decorate the website to adding animation, 
+     colors , buttons , etc . 
+
+3.What is the difference between front-end and back-end development?
+Ans. Front-end -> It is that part of the website which is visible to the user and where user interact to the application.
+     Back -end -> It is that part of website which perform all logical things behind the website and manage the database . 
+
+4.What is JavaScript?
+Ans. JavaScript is a High-Level Progamming language which is commanly used to develop the website end to end .
+
+5.What is a responsive web design?
+Ans. Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, 
+     to make it look good on all devices (desktops, tablets, and phones).
+
